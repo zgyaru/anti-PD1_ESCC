@@ -4,6 +4,22 @@
 XXXXX
 
 
+## Session information
+* CentOS Linux 7 (Core)
+* R version 4.1.1
+* Seurat 4.1.1
+* SeuratObject 4.1.0
+* SingleCellExperiment 1.14.1
+* GenomicRanges 1.44.0
+* cowplot 1.1.1
+* ggplot2 3.3.6
+* ggrepel 0.9.1
+* survival 3.2-13
+* dplyr 1.0.9
+* Rcpp 1.0.8.3
+* data.table 1.14.2
+
+
 
 ## Scripts annotation
 * ./scripts/PCA_analysis.ipynb: Figure 1E; Figure S1G
