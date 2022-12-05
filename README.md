@@ -32,7 +32,7 @@ XXXXX
 * statsmodels 0.12.2
 * igraph 0.9.6
 * networkx 2.6.2
-* 
+* matplotlib 3.6.1
 
 
 
