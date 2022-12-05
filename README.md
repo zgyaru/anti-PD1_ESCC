@@ -41,3 +41,4 @@ XXXXX
 * ./scripts/Proportion.ipynb: Figure 1G; Figure 5A; Figure S1H; Figure S1G; Figure S2F; Figure S6F
 * ./scripts/clustering.ipynb: Figure 1C; Figure 1D; Figure 2A; Figure 4A; Figure S7E
 * ./scripts/Pseuotime_analyses.ipynb: Figure 2E
+* ./scripts/Bulk_RNA_validation.ipynb: Figure 2B; Figure 5B
