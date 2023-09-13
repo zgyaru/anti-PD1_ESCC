@@ -17,7 +17,7 @@ Neoadjuvant immune checkpoint blockade (ICB) demonstrates promise in operable es
 | Proportion.ipynb | Figure 1G; Figure5E; Figure S1I; Figure S1K; Figure S2G | R |
 | SC_geneSets_analyses.ipynb | Figure 2B; Figure 2D; Figure 6B; Figure S6H | R |
 | Pseuotime_analyses.ipynb | Figure 2E; Figure S2E; Figure S2F | Python |
-| Bulk_RNA_validation.ipynb | Figure 3D; Figure S5I; Figure S6I | R |
+| Bulk_RNA_validation.ipynb | Figure 3D; Figure 3E; Figure 3F; Figure S5I; Figure S6I | R |
 | Cell_cell_interaction.ipynb | Figure 5C; Figure 5D; Figure 5F; Figure 5G; Figure 6F | R |
 | ScTCR_scRNA.ipynb | Figure S4 | Python |
 
